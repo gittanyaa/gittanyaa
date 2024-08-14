@@ -3,7 +3,7 @@
 <h3 align="center">4th Year B-Tech CSE Student | Cybersecurity and Blockchain Enthusiast | Front-end Developer with a Focus on IoT and Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 💬 Ask me about **JAVA, HTML, CSS, javascript, C++, MySql**
+- 💬  **JAVA, HTML, CSS, javascript, C++, MySql**
 
 - 📫 How to reach me **tanya8workk@gmail.com**
 
