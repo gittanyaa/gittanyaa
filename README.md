@@ -5,7 +5,7 @@
 
 - 💬  **JAVA, HTML, CSS, javascript, C++, MySql**
 
-- 📫 How to reach me **tanya8workk@gmail.com**
+- 📫  Reach me **tanya8workk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
