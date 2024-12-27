@@ -1,10 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
-<h1 align="center">Hi 👋, I'm Tanya Tiwari</h1>
-<h3 align="center">4th Year B-Tech CSE Student | Cybersecurity and Blockchain Enthusiast | Front-end Developer with a Focus on IoT and Web Development</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<h1 align="center">Hey this is Tanya Tiwari</h1>
+<br>
+<h3 align="center">Final Year BTech - Computer Science & Engineering Pursuer </h3>
+<img align="right" alt="coding" width="400" src="C:\Users\LENOVO\Downloads\Git.gif">
 
 - 💬  **JAVA, HTML, CSS, javascript, C++, MySql**
-
+<br>
 - 📫  Reach me **tanya8workk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
