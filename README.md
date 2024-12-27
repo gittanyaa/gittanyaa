@@ -2,10 +2,9 @@
 <h1 align="center">Hey this is Tanya Tiwari</h1>
 <br>
 <h3 align="center">Final Year BTech - Computer Science & Engineering Pursuer </h3>
-<img align="right" alt="coding" width="400" src="C:\Users\LENOVO\Downloads\Git.gif">
-
-- 💬  **JAVA, HTML, CSS, javascript, C++, MySql**
+<img align="right" alt="coding" width="400" src="https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/73c23c8171ab63ac5ee3e9c8e4200c9fc7507f44a49d5d02a7409f1bed852af3/f_marketingpicFull/u_3156c16607c76853439b54aa4367cd418ef64e27874761c4390327a82c9eb3f3/img_s1napt2pgf_548473d6a673041ff09dac7d9037f4d9643689fb3cf2ded16de4e1072818323e.gif">
 <br>
+- 💬  **JAVA, HTML, CSS, javascript, C++, MySql**
 - 📫  Reach me **tanya8workk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
