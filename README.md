@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
+[![MasterHead](https://www.growthengineering.co.uk/wp-content/uploads/2023/10/65-Quotes-About-Workplace-Learning-_-Development-ills-16.png)]
 <h1 align="center">Hey this is Tanya Tiwari</h1>
 <br>
 <h3 align="center">Final Year BTech Pursuer </h3>
