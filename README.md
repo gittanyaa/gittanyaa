@@ -1,4 +1,4 @@
-[![MasterHead](https://www.growthengineering.co.uk/wp-content/uploads/2023/10/65-Quotes-About-Workplace-Learning-_-Development-ills-16.png)]
+<h4><b>Continious learning is the minimum requirement for<i>success</i> in any field</b></h4>
 <h1 align="center">Hey this is Tanya Tiwari</h1>
 <br>
 <h3 align="center">Final Year BTech Pursuer </h3>
